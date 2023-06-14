@@ -22,4 +22,4 @@ Before running the script, make sure you have the following:
 
 Note: Make sure to adjust the UDP port (14551) in the code if necessary to match your specific setup.
 
-Uploading autonomous_drone_navigation.mp4…
+https://github.com/strangedin/autonomous-drone-navigation-using-pymavlink/assets/36398275/09363b17-3f83-44b3-aa11-905a36e08ff3
