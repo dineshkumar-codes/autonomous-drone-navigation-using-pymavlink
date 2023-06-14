@@ -21,3 +21,5 @@ Before running the script, make sure you have the following:
 8. Monitor the console output for updates on the script's progress.
 
 Note: Make sure to adjust the UDP port (14551) in the code if necessary to match your specific setup.
+
+![Autonomous drone navigation using pymavlink](https://youtu.be/hEtf-eoJXkU)
